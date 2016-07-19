@@ -7,7 +7,7 @@ In this section you'll find links to the individual tutorails and videos on our 
 ## Getting started
 
 In this section you will find some basic tutorials on how to get started with development for the software suite.
-Most of it is tailored to get you familiar with creating losely coupled modules. Don't worry, we start out slow.
+Most of it is tailored to get you familiar with creating loosely coupled modules. Don't worry, we start out slow.
 
 For this section we even created some YouTube videos with lots of additional information:
 
@@ -43,7 +43,7 @@ Links used:
 [![Chat Application](https://img.youtube.com/vi/OVQxqZ4bQIM/0.jpg)](https://www.youtube.com/watch?v=OVQxqZ4bQIM)
 
 Episode 3. [Chat Application](https://www.youtube.com/watch?v=OVQxqZ4bQIM)
-create a basic communication between two independend modules.
+create a basic communication between two independent modules.
 
 Links used:
 * [Visual Studio Code](https://code.visualstudio.com)
