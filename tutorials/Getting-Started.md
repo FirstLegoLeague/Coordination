@@ -13,7 +13,7 @@ For this section we even created some YouTube videos with lots of additional inf
 
 ### 1. Installation
 
-[![Installation](https://img.youtube.com/vi/VfzPSmkNXWI/0.jpg)](https://www.youtube.com/watch?v=YVfzPSmkNXWI)
+[![Installation](https://img.youtube.com/vi/VfzPSmkNXWI/0.jpg)](https://www.youtube.com/watch?v=VfzPSmkNXWI)
 
 Episode 1. [Installation](https://www.youtube.com/watch?v=VfzPSmkNXWI)
 A short introduction on how to get the code running on your own computer.
