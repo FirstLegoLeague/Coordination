@@ -12,6 +12,9 @@ Most of it is tailored to get you familiar with creating losely coupled modules.
 For this section we even created some YouTube videos with lots of additional information:
 
 ### 1. Installation
+
+[![Installation](https://img.youtube.com/vi/VfzPSmkNXWI/0.jpg)](https://www.youtube.com/watch?v=YVfzPSmkNXWI)
+
 Episode 1. [Installation](https://www.youtube.com/watch?v=VfzPSmkNXWI)
 A short introduction on how to get the code running on your own computer.
 
@@ -22,6 +25,9 @@ Links used:
 
 
 ### 2. MHub
+
+[![MHub](https://img.youtube.com/vi/TRSJUfSS_LM/0.jpg)](https://www.youtube.com/watch?v=TRSJUfSS_LM)
+
 Episode 2. [MHub](https://www.youtube.com/watch?v=TRSJUfSS_LM)
 Introduction into MHub
 
@@ -33,6 +39,9 @@ Links used:
 
 
 ### 3. Chat Application
+
+[![Chat Application](https://img.youtube.com/vi/OVQxqZ4bQIM/0.jpg)](https://www.youtube.com/watch?v=OVQxqZ4bQIM)
+
 Episode 3. [Chat Application](https://www.youtube.com/watch?v=OVQxqZ4bQIM)
 create a basic communication between two independend modules.
 
@@ -98,8 +107,11 @@ UI.prototype.writeLine = function(str) {
 module.exports = UI;
 ```
 
-### 4. More chatter
-Episode 4. 
+### 4. Chat GUI
+
+[![Chat GUI](https://img.youtube.com/vi/Yx1VF1vb6eA/0.jpg)](https://www.youtube.com/watch?v=Yx1VF1vb6eA)
+
+Episode 4. [Chat GUI](https://www.youtube.com/watch?v=Yx1VF1vb6eA)
 In this episode we extend the chat application to something that looks more like a real web application
 
 Files used:
