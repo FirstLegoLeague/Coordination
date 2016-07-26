@@ -12,7 +12,11 @@ The application should provide three interfaces:
 3. Team interface
 
 ## Setup interface
-In this interface the admin can setup the event specific information. The number of tables or rooms available, the timeslot length and start times. Take note that blocks of slots can start at different times (i.e. not continues). The admin should also have the option to block slots or reserver them for tournament purposes. The admin should have to option to set global settings for the maximum of reservations, to allow for multiple reservations in a time slot and the option to verify reservations. This means that reservations can be approved before becomming difinitive.
+In this interface the admin can setup the event specific information. The number of tables or rooms available, the timeslot length and start times. Take note that blocks of slots can start at different times (i.e. not continues). The admin should also have the option to block slots or reserver them for tournament purposes.
+The admin should have to option to set global settings for:
+* the maximum number of reservations in a day
+* to allow for multiple reservations in a single time slot 
+* the option to verify reservations. This means that reservations can be approved before becomming difinitive
 
 ## Admin interface
 This is the daily interface where an admin can check if and which teams made the reservation and check for attendence.
