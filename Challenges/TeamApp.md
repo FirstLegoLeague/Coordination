@@ -48,11 +48,12 @@ Besides information, the appplication can also enable teams and users to activel
 * _Engage_: with other teams, for example through team information.
 
 # Interface
-The entered information would be accessable by teams on a variety of devices, including mobile phones and tablets. One solution would be to use a repsonsive design for a mobile website. There will be two 
+The entered information would be accessable by teams on a variety of devices, including mobile phones and tablets. One solution would be to use a repsonsive design for a mobile website. There will be three main users: the event organizer (putting in information), the the general users looking for event information, and the teams looking also for their own information
 
 ## Admin
 * Show / hide certain sections if not used at the event
 * Add additional pages to the general information
+* Add notifications during the event to be send to all users
 
 ## General user
 * Open mobile website
@@ -60,7 +61,6 @@ The entered information would be accessable by teams on a variety of devices, in
 * Bookmar site
 
 ## Teams / coach
-
 * Select their own team from a list
 * If selected different landing page (for example own schedule)
 
