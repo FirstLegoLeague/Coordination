@@ -1,29 +1,26 @@
-Agenda
-Recent development
-Launcher
-User feedback from us
-Scoring software
-Pilot
-Manage updates
-Fll-tools.com
-Promo video
-Collecting of email adres-download
-Manual / instructions 
-Collected feedback
+# Agenda
+- Recent developments
+- Launcher
+- Scoring software
+- Pilot
+- Manage updates
+- Fll-tools.com
+- Promo video
+- - Collected feedback (Collecting of email adres-download)
+- Manual / instructions 
+- Setting support
+- Merging code bases
+- Scoring module
+- Keep interactions going on github
+- Next steps
+- Bringing in new volunteers
+- New modules
+- Judging
+- Timeline
 
-
-Setting support
-Merging code bases
-Scoring module
-Keep interactions going on github
-Next steps
-Bringing in new volunteers
-New modules
-Judging
-Timeline
-Notes
-Recent developments
-Launcher
+# Notes
+## Recent developments
+### Launcher
 In the launcher windows, the management doesn't have an IP address. B/c we don’t want people to open more than one. It is still possible, but have to enter URL manually on the admin PC (if not launcher PC)
 Authentication: no separate login for admin in scoring software. 
 Different roles have been defined, depending on the role they will see different options there. 
