@@ -52,45 +52,36 @@
 
 ## Merging code-bases
 - Code bases have changed a lot of the last weeks. There is big gap to bridge. Code standards have been high on Dutch side, making it harder to contribute. On the other hand theere has been a strong feature focus on the Israeli side to get quicly to a deliverable. While this is essentially a good combination, we need to get back to each other and integrate the code-bases and workflows. 
-- The idea is to make list of the changes that have occurred since the split, so we can see how to merging things back (manually). 
+- The idea is to make list of the changes that have occurred since the split, so we can see how to merging things back (manually). In some instances a different solution has been chosen for the same problem, we need to choose which one to make. Or factor things out in a separate module. It could even result in two modules, but leave the rest the same
+- The longer we wait more difficult it becomes. So we need to do ASAP, also to ensure we keep the collaboration going. The discussion should be left to the actual developers, they have to agree. But ‘we’ can facilitate. 
+- The main difference is in the scoring module. Here some changes have been made that are ‘gonna hurt’. Changes in display and clock are more cosmetic in nature, and are mainly in the configuration files.
+- We propose the following approach:
+  - Create an overview of what has been done on each side since ‘split’. Creat this overview by Nov 10th
+  - Send the integrated overview to devvers arounnd Nov 16th or 17th
+  - Organize a call to discuss the ‘aggregated’ issues and a strategy forward
+- For the future, to ensure that we keep working an intergated manner we need to keeping conversations on github going. We have to use the github issues and slack so everyone is up to date. We should encourage that:
+  - Internal discussions and ideas can be discussed internally, for example on WhatsApp or in person.
+  - Next ideas should be posted on GitHub in existing or new issues. Or discussed in Slack before coding so people can review and provide input.
+  - Next coding happens in small pieces and commits. 
+- We should also keep in mind that enthousium of the group and the difference in experience. In any case, Slack is a safe place to discuss ideas.
 
-In some instances a different solution has been chosen for the same problem, we need to choose which one to make. Or factor things out in a separate in module, and could even result in two modules, but leave the rest the same
-When to do it? Longer we wait more difficult it becomes. So we need to do ASAP, also to ensure we keep the collaboration going.
-The discussion should be left to the actual developers, they have to agree. But ‘we’ can facilitate. 
-Main difference is in the scoring module? Yes, that are the main ones that are ‘gonna hurt’. Display and clock are more cosmetic in nature
-Approach:
-Create an overview of what has been done on each side since ‘split’, Nov 10th
-Send overview to devvers, Nov 16th or 17th
-Organize a call to discuss the ‘aggregated’ issues and a strategy forward
-Keeping on conversations github going:
-Either whatsapp, slack or github so everyone is up to date
-Internal discussions can be within in group, but ideas post on Github, before coding.
-Need keep in mind the enthusiasm of the young group. 
-Slack informal discussion, github formal discussions
-Slack is a safe place
-Next steps:
-New modules
-What new modules can we develop?
-Judging
-More ideas: https://github.com/FirstLegoLeague/Coordination/tree/master/Challenges 
-Bringing in volunteers
-Wait a bit to we solve the merge issues
-First need to streamline the rest so it easier to jump
-More mature/ solid process and ideas before we involve others
-Only if we are taken about a completely new modules (like judging)
-Common code, or existing modules not preferred, more coordination.
+## Next steps:
+- What new modules can we develop? Mainly judging is the most logical next step. However several other ideas have already been presented (including schedule) and are listed on the Coordination Repro on Github. More ideas: https://github.com/FirstLegoLeague/Coordination/tree/master/Challenges 
+- We are not actively going to recruit new volunteers. We have to wait untill we have resolved the merge. We can then streamline the work processes and it will be easier for new people to jump in. We need more mature/ solid process and ideas before we involve others. 
+- Only if we they are going to develop completely new modules (like judging) new volunteers could be brought on. We direct new peope how contact us towards these modules. Not more people working on the existing modules, this requires too much coordination for now. 
 
 # Action items / Timeline
-- @Kenny; clean up notes and share on Slack.
-- @All: add ideas of more modules
-- @Jeroen/Kenny: Create a covenant / SOP / MoU (code of conduct)
-- @Kenny: Send out doodle for call on Nov 16th / 17th
-- @Jeroen/Kenny: list of changes, Nov 10th
-- @Alan/Yosi: create overview of new functionality. Nov 10th
-- @Alan: initial question for end-user survey, to be send out after first finales
-- @Alan/Yoshi: Check the videos
-- @Jeroen/Kenny: setup helpdesk , deadline Nov 6th
-- @Dutch group: check the launcher as user perspective, and submit feedback through github issues
+In declining order of urgens (v = done, x = not done)
+- V @Jeroen/Kenny: setup helpdesk , deadline Nov 6th
+- V @Kenny; clean up notes and share on Slack.
+- X @Alan/Yoshi: Check the videos
+- X @Jeroen/Kenny: list of changes, Nov 10th
+- X @Alan/Yosi: create overview of new functionality. Nov 10th
+- X @Dutch group: check the launcher as user perspective, and submit feedback through github issues
+- X @Kenny: Send out doodle for call on Nov 16th / 17th
+- X @Jeroen/Kenny: Create a covenant / SOP / MoU (code of conduct)
+- X @Alan: initial question for end-user survey, to be send out after first finales
+- X @All: add ideas of more modules to coordination repro
 
 ## Development ideas:
 - Ask for defaults settings
